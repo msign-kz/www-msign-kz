@@ -1,0 +1,39 @@
+body {
+    font-family: Tahoma, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    background-image: url("../images/main-bg.gif");
+    background-position: top center;
+    background-repeat: repeat-x;
+    background-color: #ffffff;
+    color: #333;
+}
+.topper {
+    height: 6px;
+    background-color: #98c800;
+    border-bottom: 2px solid #ffffff;
+}
+body>.container{
+    background-image: url("../images/bg-docs.png");
+    background-position: top center;
+    background-repeat: no-repeat;
+    margin-top: 65px;
+    min-height: 500px;
+}
+.logo {
+    background-image: url("../images/logo-esign-shadow.png");
+    background-position: top center;
+    background-repeat: no-repeat;
+    margin: 0 auto 140px;
+    width: 192px;
+    height: 232px;
+}
+.title {
+    font-size: 22px;
+    color: #98c800;
+    text-align: center;
+}
+.slogan {
+    font-size: 33px;
+    color: #98c800;
+    margin-top: 50px;
+    text-align: center;
+}
