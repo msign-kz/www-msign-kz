@@ -1,9 +1,6 @@
 body {
     font-family: Tahoma, "Helvetica Neue", Helvetica, Arial, sans-serif;
-    background-image: url("../images/main-bg.gif");
-    background-position: top center;
-    background-repeat: repeat-x;
-    background-color: #ffffff;
+    background: #ffffff url("../images/main-bg.gif") repeat-x top center;
     color: #333;
 }
 .topper {
@@ -12,19 +9,16 @@ body {
     border-bottom: 2px solid #ffffff;
 }
 body>.container{
-    background-image: url("../images/bg-docs.png");
-    background-position: top center;
-    background-repeat: no-repeat;
+    background: url("../images/bg-docs.png") no-repeat top center;
     margin-top: 65px;
     min-height: 500px;
 }
 .logo {
-    background-image: url("../images/logo-esign-shadow.png");
-    background-position: top center;
-    background-repeat: no-repeat;
+    background: url("../images/logo-big.png") no-repeat top center;
+    background-size: cover;
     margin: 0 auto 140px;
-    width: 192px;
-    height: 232px;
+    width: 256px;
+    height: 256px;
 }
 .title {
     font-size: 22px;
