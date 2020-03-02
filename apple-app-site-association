@@ -1,0 +1,11 @@
+{
+    “applinks”: {
+        “apps”: [],
+        “details”: [
+            {
+                “appID”: “kz.msign.msign-test-2”,
+                “paths”: [“*”],
+            }
+        ]
+    }
+}
