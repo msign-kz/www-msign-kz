@@ -3,6 +3,10 @@
         "apps": [],
         "details": [
             {
+                "appID": "BVZ4TPSKWC.kz.msign.app",
+                "paths": ["*"]
+            },
+            {
                 "appID": "BVZ4TPSKWC.kz.msign.msign-test-2",
                 "paths": ["*"]
             }
