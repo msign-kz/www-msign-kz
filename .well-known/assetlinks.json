@@ -1,0 +1,15 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "kz.msign.app",
+            "sha256_cert_fingerprints": [
+                "D2:18:2B:0E:34:38:3B:FD:A7:80:AC:21:88:F1:F7:1F:13:33:AD:CB:E3:94:2A:75:96:FB:A1:7A:0B:6B:CE:68",
+                "6B:41:26:A6:1E:D8:BD:91:D3:8B:57:10:5F:07:5C:2D:AB:3E:26:A4:D1:3C:9C:97:15:78:9E:0D:56:0A:CE:DC"
+            ]
+        }
+    }
+]
